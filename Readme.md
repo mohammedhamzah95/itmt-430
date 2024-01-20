@@ -200,6 +200,10 @@ Download the proper [Oh My Git! tutorial](https://ohmygit.org/ "webpage for oh m
 
 Complete the tutorial and take screenshots of the completed sections (may need to take a few shots as the there are many sections).
 
+![OMG 1](images/omg_1.jpg)
+![OMG 2](images/omg_2.jpg)
+![OMG 3](images/omg_3.jpg)
+
 This Git tutorial is a good refresher for those who need it and a great introduction for those new to Version Control and want to learn it. You can leave the last section out, **Sandbox**, it is an open area for you to experiment in and no real way to "complete it."
 
 ### Create and Push your Readme.md
