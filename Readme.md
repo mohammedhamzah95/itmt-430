@@ -130,6 +130,8 @@ We will be installing an text editor or and IDE for all of our coding and config
 
 Take a screenshot from the ABOUT tab in your IDE to show the installed version
 
+![VSCode Version](images/vscode_version.jpg)
+
 ### Install Git Client for Version Control
 
 Version Control is vital to modern software development and we will be using our Package Manger to install the Git Client for our respective operating systems. **Note**, this is different from the GitHub Desktop tool, which we will not be using this semester.
