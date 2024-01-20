@@ -97,7 +97,7 @@ For Windows we are going to install PowerShell Core, also known as PowerShell 7.
 
 Open PowerShell 7 and issue the command: `ssh -V` and take a screenshot of the PowerShell version output as well as the SSH version output.
 
-![PowerShell Version](images/ssh_version.jpg)
+![PowerShell Version](images/ssh_version.jpg "PowerShell Version")
 
 For MacOS, newer versions use the Z shell.  This is due to Apple not using GPLv3+ software, which newer versions of BASH are licensed under.  This should be just fine and not require a new shell install.  If you want to experiment you can also install PowerShell 7 via Brew but it is not required.
 
@@ -115,7 +115,7 @@ On MacOS, there is a terminal called [iterm2](https://iterm2.com/ "MacOS shell t
 
 Open the iterm2 Terminal and from the File > About section take a screenshot of the version output
 
-![Terminal Version](images/terminal_version.jpg)
+![Terminal Version](images/terminal_version.jpg "Terminal Version")
 
 ### Install IDE editor with native version control support
 
@@ -130,7 +130,7 @@ We will be installing an text editor or and IDE for all of our coding and config
 
 Take a screenshot from the ABOUT tab in your IDE to show the installed version
 
-![VSCode Version](images/vscode_version.jpg)
+![VSCode Version](images/vscode_version.jpg "VSCode Version")
 
 ### Install Git Client for Version Control
 
@@ -138,7 +138,7 @@ Version Control is vital to modern software development and we will be using our
 
 Take a screenshot of the output of the command: ```git --version```
 
-![Git Version](images/git_version.jpg)
+![Git Version](images/git_version.jpg "Git Version")
 
 #### Configure Git Client
 
@@ -182,7 +182,7 @@ Using your package manager, install the latest version of [Vagrant](https://vagr
 
 Take a screenshot of the output of the command: ```vagrant --version```
 
-![Vagrant](images/vagrant_version.jpg)
+![Vagrant](images/vagrant_version.jpg "Vagrant Version")
 
 ### Install Packer.io
 
@@ -192,7 +192,7 @@ Using a package manager, install the latest version of [Packer](https://packer.i
 
 Take a screenshot of the output of the command: ```packer --version```
 
-![Packer](images/packer_version.jpg)
+![Packer](images/packer_version.jpg "Packer Version")
 
 ### Oh-My-Git Tutorial
 
@@ -200,9 +200,9 @@ Download the proper [Oh My Git! tutorial](https://ohmygit.org/ "webpage for oh m
 
 Complete the tutorial and take screenshots of the completed sections (may need to take a few shots as the there are many sections).
 
-![OMG 1](images/omg_1.jpg)
-![OMG 2](images/omg_2.jpg)
-![OMG 3](images/omg_3.jpg)
+![OMG 1](images/omg_1.jpg "Oh-My-Git")
+![OMG 2](images/omg_2.jpg "Oh-My-Git")
+![OMG 3](images/omg_3.jpg "Oh-My-Git")
 
 This Git tutorial is a good refresher for those who need it and a great introduction for those new to Version Control and want to learn it. You can leave the last section out, **Sandbox**, it is an open area for you to experiment in and no real way to "complete it."
 
