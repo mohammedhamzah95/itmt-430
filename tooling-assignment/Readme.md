@@ -58,7 +58,7 @@ System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
 For Windows 10 or 11, place a screenshot of the version command output for: ```choco --version```.
-![*Chocolatey Version*](images/chocoversion.jpg)
+![*Chocolatey Version*](images/chocoversion.jpg "Chocolatey Version")
 
 ### Commands to run and install all the software
 
