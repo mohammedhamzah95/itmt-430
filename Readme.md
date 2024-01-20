@@ -115,6 +115,8 @@ On MacOS, there is a terminal called [iterm2](https://iterm2.com/ "MacOS shell t
 
 Open the iterm2 Terminal and from the File > About section take a screenshot of the version output
 
+![Terminal Version](images/terminal_version.jpg)
+
 ### Install IDE editor with native version control support
 
 We will be installing an text editor or and IDE for all of our coding and configuration.  The key is one with native version control tooling integrated.  There are many and all can be installed via your OSes package manager, here are a list:
